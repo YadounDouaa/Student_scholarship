@@ -32,3 +32,16 @@ student_scholarship challenge using javafx and mysql
 
 
 ![w12](https://user-images.githubusercontent.com/22420836/53630123-a318d380-3c0f-11e9-950d-ade900d98d9b.png)
+
+
+## Tools used:
+* IntelliJ IDEA (text editor)
+* Java (logic)
+
+## Team:
+This project was made by: 
+* [Fatima Usf](https://github.com/Fatima-Usf)
+
+
+## Contribution:
+Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
